@@ -1,5 +1,5 @@
 export const ASSET_URL =
-  "https://opensea.io/collection/eroticpink";
+  "https://opensea.io/assets/eroticpink";
 
 export enum EmbedTheme {
   Default = "true",
