@@ -36,7 +36,7 @@ class App extends React.Component {
         </main>
         <footer className="App-footer">
           {/* Placeholder image for footer */}
-          <img style={{width: '100%'}} src={footer} className="footer" alt="footer" />
+          <img style={{width: '30%'}} src={footer} className="footer" alt="footer" />
         </footer>
       </div>
     );
